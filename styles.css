@@ -1,13 +1,11 @@
-/* Style main element */
 main.accio#job {
-    width: 150px;
+    width: 150px !important;
     height: 150px;
     background-color: #000000;
 }
 
-/* Style paragraph */
 .hello-accio {
-    color: #ffffff;
+    color: #ffffff !important;
     margin-left: 32px;
     padding: 10px;
 }
